@@ -21,9 +21,8 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/bhagirathjoshi
 - Portfolio: [Your Portfolio URL if available]
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)
 
 ---
 
